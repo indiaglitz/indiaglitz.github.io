@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://indiaglitz.github.io/sitemap.xml
